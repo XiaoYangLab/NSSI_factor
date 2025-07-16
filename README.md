@@ -32,4 +32,4 @@ The tool is intended for use in research settings to facilitate the psychologica
 1. Open MATLAB (R2022b or later)
 2. Navigate to the project directory
 3. Run the main GUI script:
-   calculate3
+   FactorCalculation
