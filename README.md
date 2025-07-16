@@ -33,3 +33,8 @@ The tool is intended for use in research settings to facilitate the psychologica
 2. Navigate to the project directory
 3. Run the main GUI script:
    FactorCalculation
+<img width="669" height="472" alt="fbd43fb58a7c747a90d99145842fe00" src="https://github.com/user-attachments/assets/92181e7c-79bf-4e5c-b08e-873ef729e90a" />
+
+<img width="771" height="732" alt="16fb099bc07fa828a17fc470c3d99d2" src="https://github.com/user-attachments/assets/79f79a68-6f80-4567-bcc8-7a11a60b07a6" />
+
+<img width="514" height="472" alt="7d0ba03250ea501dc668f6c35cdaabb" src="https://github.com/user-attachments/assets/29cccbf0-81ce-4044-a209-3b694c02a9c6" />
